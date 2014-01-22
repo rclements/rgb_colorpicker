@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: CWAC-Parcel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/CWAC-Parcel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
