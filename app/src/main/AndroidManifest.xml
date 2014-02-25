@@ -2,9 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.app" >
 
-    <uses-sdk android:minSdkVersion="14"
+    <uses-sdk android:minSdkVersion="17"
         android:targetSdkVersion="17"
-        android:maxSdkVersion="17" />
+        android:maxSdkVersion="19" />
 
     <application
         android:allowBackup="true"
